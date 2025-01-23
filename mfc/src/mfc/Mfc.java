@@ -14,7 +14,7 @@ public class Mfc {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ciaop");
+        System.out.println("cp");
         // TODO code application logic here
     }
     
