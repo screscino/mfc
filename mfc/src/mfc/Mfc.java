@@ -5,9 +5,6 @@
 package mfc;
 
 /**
-
- * @author utente    prova
- * ciaoccckkljkljl
  */
 public class Mfc {
 
