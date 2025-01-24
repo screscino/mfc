@@ -5,7 +5,7 @@
 package mfc;
 
 /**
- *vcdvxv
+
  * @author utente
  */
 public class Mfc {
