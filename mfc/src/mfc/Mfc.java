@@ -15,7 +15,7 @@ public class Mfc {
         
         
 System.out.println("cp");
-       System.out.println("cp");
+       System.out.println("cia");
        
        
        System.out.println("cp");
